@@ -6,7 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Kemmbo-H9tw.aternos.me",
+    "ip": "",
+    "ip": "Kemmbo-H9tw.aternos.me:49740",
     "port": 49740,
     "version": "",
     "try-creative": false
